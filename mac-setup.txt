@@ -1,0 +1,69 @@
+# Preliminaries
+xcode-select
+brew
+
+# Terminal utilities
+git
+nvm
+node
+pyenv
+vim
+nvim
+astronvim
+tmux
+railway-app
+
+# Development
+alacritty
+docker
+emacs-mac
+gitkraken
+insomnia
+jetbrains-toolbox
+microsoft-remote-desktop
+multipass
+rstudio
+sage
+visual-studio-code
+wolfram-player
+
+# Install office apps
+firefox
+figma
+foxit-pdf-reader
+goodnotes
+ia-writer
+loom
+mendeley-reference-manager
+ms-office
+notion
+spark
+texifier
+
+# Install utilities
+amethyst
+appcleaner
+bitwarden
+anyconnect
+djview
+google-drive
+grammarly-desktop
+onedrive
+pomo-done-app
+raycast
+remarkable
+streaks
+todoist
+vlc
+
+# Social
+discord
+messenger
+ms-teams
+slack
+viber
+whatsapp
+zoom
+
+# Games
+steam
